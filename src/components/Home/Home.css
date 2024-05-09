@@ -1,0 +1,353 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-radius: 65.28px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(234, 234, 234, 1);
+  margin-top: 24px;
+  margin-left: 24px;
+  width: 1392px;
+  height: 111.17px;
+  padding: 16.97px 20.89px 16.97px 52.22px;
+}
+
+.nav-image {
+  width: 127.94px;
+  height: 47.39px;
+  padding: 7.86px 0.17px 9.03px 6.78px;
+}
+
+.nav-buttons {
+  display: flex;
+  flex-direction: "row";
+  gap: 10px;
+}
+
+.nav-projects {
+  width: 189.56px;
+  height: 77.22px;
+  padding: 26.11px 41.78px 26.11px 41.78px;
+  border-radius: 107.06px;
+  border: 1.31px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18px;
+  text-align: center;
+}
+
+.nav-onboard {
+  width: 223.39px;
+  height: 77.22px;
+  padding: 26.11px 49.61px 26.11px 41.78px;
+  border-radius: 107.06px;
+  background: linear-gradient(97.55deg, #1c1c1c 2.63%, #454444 105.2%),
+    linear-gradient(0deg, #1c1c1c, #1c1c1c);
+}
+
+.nav-onboard-text {
+  font-family: "Manrope", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+  width: 132px;
+  height: 25px;
+}
+
+.first-page {
+  width: 1, 440px;
+  height: 2, 083px;
+  margin-top: 135px;
+  gap: 20px;
+}
+.main-page {
+  width: 1233px;
+  height: 886px;
+  margin-top: 79px;
+  margin-left: 62px;
+}
+
+.sucess-page {
+  width: 588px;
+  height: 78px;
+  margin-top: 79px;
+  margin-left: 426px;
+  gap: 16px;
+}
+
+.sucess-story {
+  width: 197px;
+  height: 28px;
+  font-family: "Covered By Your Grace", cursive;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 39.6px;
+  letter-spacing: -0.02em;
+  margin-left: 200px;
+  color: rgba(45, 169, 80, 1);
+}
+
+.journey {
+  width: 588px;
+  height: 134px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 56px;
+  color: rgba(28, 28, 28, 1);
+  line-height: 67.2px;
+  text-align: center;
+}
+
+.arch {
+  display: flex;
+  width: 727.49px;
+  height: 596px;
+  top: 369px;
+  left: 62px;
+}
+.photo {
+  margin-top: 100px;
+  position: absolute;
+  width: 506.98px;
+  height: 546.27px;
+  top: 369px;
+  left: 206.69px;
+}
+
+.frame1 {
+  width: 245px;
+  position: absolute;
+  height: 88px;
+  top: 881.71px;
+  left: 128.19px;
+  padding: 16px 32px 16px 16px;
+  gap: 14px;
+  border-radius: 111.54px;
+  opacity: 2;
+}
+
+.frame2 {
+  position: absolute;
+  width: 370.49px;
+  height: 400px;
+  top: 806px;
+  left: 499px;
+  padding: 34px 30px 40px 36px;
+  gap: 20px;
+  border-radius: 28.36px;
+  border: 1.18px solid transparent;
+  opacity: 3;
+}
+
+.frame3 {
+  position: absolute;
+  width: 267.82px;
+  height: 239px;
+  top: 583px;
+  left: 62px;
+  padding: 30px;
+  gap: 10px;
+  border-radius: 27.11px;
+  opacity: 2;
+}
+
+.top-company {
+  position: absolute;
+  width: 398px;
+  height: 192px;
+  top: 540px;
+  left: 897px;
+  font-family: "Manrope", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+
+.explore {
+  position: absolute;
+  width: 245px;
+  height: 88px;
+  top: 928px;
+  left: 897px;
+  padding: 31px 40px;
+  gap: 16px;
+  border-radius: 100px;
+  opacity: 10;
+  background-image: linear-gradient(97.55deg, #1c1c1c 2.63%, #454444 105.2%),
+    linear-gradient(0deg, #1c1c1c, #1c1c1c);
+  color: #ffffff;
+}
+
+.second-page {
+  width: 1440px;
+  height: 813px;
+  padding: 32px 0px 0px 0px;
+  background-color: rgba(232, 238, 231, 1);
+}
+
+.left-column {
+  width: 405px;
+  height: 111px;
+  margin-top: 80px;
+  /* margin-left: 94.5px; */
+  gap: 20px;
+}
+
+.left-quote {
+  width: 215px;
+  height: 25px;
+  color: rgba(158, 157, 157, 1);
+  font-family: "Covered By Your Grace", cursive;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 35.2px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  margin-left: 94.5px;
+}
+
+.left-quote-1 {
+  width: 405px;
+  height: 66px;
+  font-family: "Manrope", sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 66px;
+  letter-spacing: -0.01em;
+  text-align: left;
+  margin-left: 94.5px;
+}
+
+.Union-logo {
+  width: 476.49px;
+  height: 514.61px;
+  margin-top: 124px;
+  margin-left: 14.51px;
+  gap: 0px;
+  opacity: 0px;
+
+  background-color: linear-gradient(
+    180.06deg,
+    #ffffff 0.05%,
+    rgba(255, 255, 255, 0) 88.86%
+  );
+}
+
+.right-column {
+  width: 581px;
+  height: 538px;
+  /* margin-top: 137px; */
+  margin-left: 721px;
+  gap: 36px;
+}
+
+.plus {
+  float: right;
+}
+
+.right-text {
+  width: 581px;
+  height: 52px;
+  font-family: "Manrope", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+}
+
+.right-text-1 {
+  width: 581px;
+  height: 80px;
+  gap: 24px;
+}
+
+.right-span {
+  width: 411px;
+  height: 56px;
+  font-family: "Manrope", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+}
+
+.right-text-2 {
+  width: 581px;
+  height: 28px;
+  font-family: "Manrope", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+}
+
+.right-text-3 {
+  width: 581px;
+  height: 52px;
+  gap: 24px;
+  font-family: "Manrope", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+}
+
+.right-text-4 {
+  width: 581px;
+  height: 56px;
+  gap: 24px;
+
+  font-family: "Manrope", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+}
+
+.horizental-line {
+  width: 581px;
+  border: 1px solid rgba(215, 215, 215, 1);
+}
+.footer {
+  width: 1440px;
+  height: 144px;
+  padding: 60px;
+  border-radius: 40px;
+  justify-content: space-between;
+  background-color: rgba(245, 245, 245, 1);
+}
+
+.footer-discription {
+  width: 1281px;
+  height: 24px;
+  gap: 32px;
+}
+
+.text-muted {
+  float: left;
+  width: 287px;
+  height: 24px;
+  gap: 10px;
+  font-family: "Manrope", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 19.8px;
+  -webkit-text-fill-color: rgba(28, 28, 28, 1);
+}
+
+.text-muted-1 {
+  float: right;
+  width: 287px;
+  height: 24px;
+  gap: 10px;
+  font-family: "Manrope", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 19.8px;
+  -webkit-text-fill-color: rgba(28, 28, 28, 1);
+}
